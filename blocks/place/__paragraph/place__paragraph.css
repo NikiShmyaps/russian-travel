@@ -7,8 +7,8 @@
   color: #FFFFFF;
 }
 
-.place__paragraph:first-child {
-  padding-bottom: 26px;
+.place__paragraph:last-child {
+  padding-top: 26px;
 }
 
 @media screen and (max-width: 1023px) {

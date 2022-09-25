@@ -11,4 +11,4 @@
 - Верстка выполнена согласну предоставленному макету;
 - Все изображения оптимизированы;
 
-Ссылка на проект: https://nikishmyaps.github.i/russian-travel/index.html
+Ссылка на проект: https://nikishmyaps.github.io/russian-travel/index.html
